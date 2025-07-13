@@ -58,6 +58,8 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
-    "mm.h": "c"
+    "mm.h": "c",
+    "pthread.h": "c",
+    "stdlib.h": "c"
   }
 }
